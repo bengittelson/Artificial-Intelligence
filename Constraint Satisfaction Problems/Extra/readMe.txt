@@ -1,0 +1,3 @@
+Notes on my CSP and how to run it: 
+-I had to represent the (x, y) coordinates using the notation x|y to avoid having to change the csp_parse and assignment_parse functions in Testing.py. For example, the position (4, 2) on the board is represented as 4|2 in my csp, solution, and test files. I've also included a tester file for this CSP (nqueens.py), which parses the .csp file, solves it, and then prints the solution. 
+-My implementation assumes that nqueens.csp is stored in the csps folder and that nqueens.test and nqueens.solution are stored in a q7 folder. I also modified the autograder accordingly and have included my updated version. 

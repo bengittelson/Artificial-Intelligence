@@ -1,0 +1,24 @@
+Q1 1|1 1|2 1|3 1|4 2|1 2|2 2|3 2|4 3|1 3|2 3|3 3|4 4|1 4|2 4|3 4|4
+Q2 1|1 1|2 1|3 1|4 2|1 2|2 2|3 2|4 3|1 3|2 3|3 3|4 4|1 4|2 4|3 4|4
+Q3 1|1 1|2 1|3 1|4 2|1 2|2 2|3 2|4 3|1 3|2 3|3 3|4 4|1 4|2 4|3 4|4
+Q4 1|1 1|2 1|3 1|4 2|1 2|2 2|3 2|4 3|1 3|2 3|3 3|4 4|1 4|2 4|3 4|4
+0
+NotVerticalConstraint Q1 Q2
+NotVerticalConstraint Q1 Q3
+NotVerticalConstraint Q1 Q4
+NotVerticalConstraint Q2 Q3
+NotVerticalConstraint Q2 Q4
+NotVerticalConstraint Q3 Q4
+NotHorizontalConstraint Q1 Q2
+NotHorizontalConstraint Q1 Q3
+NotHorizontalConstraint Q1 Q4
+NotHorizontalConstraint Q2 Q3
+NotHorizontalConstraint Q2 Q4
+NotHorizontalConstraint Q3 Q4
+NotDiagonalConstraint Q1 Q2
+NotDiagonalConstraint Q1 Q3
+NotDiagonalConstraint Q1 Q4
+NotDiagonalConstraint Q2 Q3
+NotDiagonalConstraint Q2 Q4
+NotDiagonalConstraint Q3 Q4
+0
